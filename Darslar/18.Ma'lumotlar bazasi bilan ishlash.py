@@ -9,7 +9,7 @@ class Database:
         return mysql.connector.connect(
             host = "localhost",
             user = "root",
-            password = "Rustam123456b",
+            password = "root",
             database = "uquv_markaz"
         )
 
