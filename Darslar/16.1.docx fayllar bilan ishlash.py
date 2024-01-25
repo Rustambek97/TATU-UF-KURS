@@ -8,7 +8,7 @@ hujjat.add_paragraph("Bu matn python kodi orqali yozildi")
 hujjat.add_paragraph("Bu matn python kodi orqali yozildi")
 hujjat.add_paragraph("Bu matn python kodi orqali yozildi")
 
-for i in hujjat.paragraphs:
-    print(i.text)
+# for i in hujjat.paragraphs:
+#     print(i.text)
 
 hujjat.save("data/hujjat.docx")
